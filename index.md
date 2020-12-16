@@ -1,4 +1,4 @@
-## los protocolos reapertura gradual progresiva y seguro (GPS)
+## del documento de sistematizacion estrategia de acompañamiento pedagogico institucioes educativas ruta PARES.
 
 You can use the [editor on GitHub](https://github.com/angeldcm/iacolegio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
